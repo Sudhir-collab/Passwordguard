@@ -10,7 +10,7 @@ A Python-based Password Strength Checker and Generator that evaluates passwords 
 ✅ Actionable feedback with improvement tips
 
 📂 Project Structure
-PassGuardian/
+Passwordguard/
 │── password_strength_main.py   # Main CLI program
 │── breach_check.py             # Breach lookup logic
 │── entropy_check.py            # Entropy & crack-time
@@ -25,8 +25,8 @@ PassGuardian/
 
 Clone this repository and install dependencies:
 bash:
-git clone https://github.com/nk55aur/PassGuardian.git
-cd PassGuardian
+git clone https://github.com/Sudhir-collab/Passwordguard.git
+cd Passwordguard
 pip install -r requirements.txt
  
 🛠️ Usage
@@ -68,3 +68,4 @@ GUI version (Tkinter / Flask)
 Integration with password managers
 Multi-language support
 Real-time API checks for leaked credentials
+
