@@ -1,4 +1,4 @@
-PassGuardian 🔐
+Passwordguard 🔐
 A Python-based Password Strength Checker and Generator that evaluates passwords for security, checks against breach datasets, calculates entropy & crack-time, and generates stronger alternatives.
 
 🚀 Features
@@ -68,4 +68,5 @@ GUI version (Tkinter / Flask)
 Integration with password managers
 Multi-language support
 Real-time API checks for leaked credentials
+
 
